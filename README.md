@@ -33,6 +33,7 @@ void setup()
   
   println("The one with the best score is " + stNames[maxIndex] + ".");
 }
+```
 
 ## Description
 
